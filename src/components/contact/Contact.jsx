@@ -24,7 +24,7 @@ export default function Contact() {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
-            <h5>shadow.play.0199@gmail.com</h5>
+            <h5>example@gmail.com</h5>
             <a href="mailto:shadow.play.0199@gmail.com" target='_blank'>Send a Message</a>
           </article>
           <article className='contact__option'>
@@ -37,7 +37,7 @@ export default function Contact() {
             <BsWhatsapp className='contact__option-icon' />
             <h4>Whats'App</h4>
             <h5>99999999</h5>
-            <a href="http://api.whatsapp.com/send?phone=+919009698978" target='_blank'>Send a Message</a>
+            <a href="http://api.whatsapp.com/send?phone=your number with country code" target='_blank'>Send a Message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS   */}
